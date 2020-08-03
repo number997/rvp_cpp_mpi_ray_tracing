@@ -1,0 +1,5 @@
+*.bmp
+*.exe
+*.txt
+trace_rays
+.vscode
